@@ -16,12 +16,13 @@ I hope following contents will be helpful for you even though you have elementar
 4. [Useful links](#Useful-links)
 
 ## Installation and Settings
-Here, we are going to set a Fortran development environment with Microsoft Visual Studio 2019 community and Intel Fortran Compiler. Until now (Dec. 2021), the latest version working perfectly   Download the proper version of the products from the following links. 
+Here, we are going to set a Fortran development environment with Microsoft Visual Studio 2019 community and Intel Fortran Compiler. Until now (Dec. 2021), the latest versions of the products working perfectly are Visual Studio Community 2019 Release 16.11 and Intel Fortran Compiler Classic and Intel Fortran Compiler(Beta) for Windows Release 2021.3.0. The latest version could not ensure the perfect work. __VS 2019 community 16.11 and Intel Fortran Compiler 2021.3.0 is verified to work.__  
 
 Visual Studio 2019 : <https://docs.microsoft.com/ko-kr/visualstudio/releases/2019/release-notes>
 
 Intel Fortran Compiler : <https://www.intel.com/content/www/us/en/developer/articles/tool/oneapi-standalone-components.html#fortran>
 
+(Sometimes, downloading offilne installer was failed. Online installer is recommended.)
 
 ### Visual Studio
 
