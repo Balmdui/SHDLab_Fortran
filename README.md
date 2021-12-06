@@ -4,7 +4,7 @@ This guide is originally targeted to the graduate students, who are first to For
 The document will explain how to build Fortran code in Windows step-by-step. 
 
 ## Contents
-1. Installation and settings
+1. [Installation and settings](#Installation-and-Settings)
 2. Learn Fortran
 3. Practice with sample codes
 4. Useful links
