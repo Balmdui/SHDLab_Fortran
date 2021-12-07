@@ -1,4 +1,3 @@
-# SHDLab_Fortran
 # A quick guide for Fortran with Intel Fortran compiler and Visual Studio.
 This guide is originally targeted to the graduate students, who are first to Fortran, of Surface Hydrology Lab - Korea University.
 The document will explain how to build Fortran code in VS (with ifort) step-by-step. 
