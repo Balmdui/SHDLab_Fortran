@@ -26,6 +26,24 @@ Intel Fortran Compiler : <https://www.intel.com/content/www/us/en/developer/arti
 
 ### Visual Studio
 
+#### Frequently used shortcuts
+- Start without debugg : ctrl+F5
+- Go to a subroutine or user-defined function : ctrl+click or F12
+- Find all the strings : ctrl+shift+F
+- Change the function of the same name : ctrl+R+R 
+- multiple cursor : alt+(mouse drag)
+- automatic align : ctrl+K+F
+- code to comment / comment to code : ctrl+K+C / ctrl+K+U
+
+
+#### Recommended Font
+D2Coding : Korean & Alphabet fixed-width font. Released by Naver and free to use and re-distribute.
+
+download : <https://github.com/naver/d2codingfont>
+
+![image](https://user-images.githubusercontent.com/95595540/144979269-548cf82c-94c8-46b4-8b2d-237453a63959.png)
+
+
 
 ### Intel Fortran compiler
 
