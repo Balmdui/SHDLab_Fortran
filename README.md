@@ -69,6 +69,9 @@ In this section, you will practice the elementary Fortran syntax.
 3. Write the code in the editor
 4. Debug-Start without Debug (ctrl+F5)
 
+![image](https://user-images.githubusercontent.com/95595540/145344621-3436d5fb-135d-4a9b-8f96-cfb2a86a983e.png)
+
+
 ### Hello world!
 
 ```
