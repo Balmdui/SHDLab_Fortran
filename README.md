@@ -10,9 +10,8 @@ I hope following contents will be helpful for you even though you have elementar
 
 ## Contents
 1. [Installation and settings](#Installation-and-Settings)
-2. [Learn Fortran](#Learn-Fortran)
-3. [Practice with sample codes](#Practice-with-sample-codes)
-4. [Useful links](#Useful-links)
+2. [Learin Fortran with sample codes](#Learn-Fortran-with-sample-codes)
+3. [Useful links](#Useful-links)
 
 ## Installation and Settings
 Here, we are going to set a Fortran development environment with Microsoft Visual Studio 2019 community and Intel Fortran Compiler. Until now (Dec. 2021), the latest versions of the products working perfectly are Visual Studio Community 2019 Release 16.11 and Intel Fortran Compiler Classic and Intel Fortran Compiler(Beta) for Windows Release 2021.3.0. The latest version could not ensure the perfect work. __This section is based on VS 2019 community 16.11 and Intel Fortran Compiler 2021.3.0 .__  
